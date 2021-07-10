@@ -5,6 +5,7 @@
 - 📫 Check out my LinkedIn: gabrielwright1 - there you'll find my daily posts on my journey to #1000DaysOfCode.
 
 Learn more: [Gabe_Resume_2021.pdf](https://github.com/gabrielwright1/gabrielwright1/files/6795477/Gabe_Resume_2021.pdf)
+
 Follow me: https://www.linkedin.com/in/gabrielwright1/
 
 <!---
