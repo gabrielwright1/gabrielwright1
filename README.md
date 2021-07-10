@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabe. I studied process engineering and I have been working in the power industry for the last 5 years.
+- 👋 Hi, I’m Gabe. I studied engineering and I have been working in the power industry for the last 5 years.
 - 👀 I’m interested in UX design, fullstack development, and system design. 
 - 🌱 I’m currently learning MongoDB, Express, React, and Node.
 - 💞️ I’m looking to collaborate on open-source projects and small demo apps
