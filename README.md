@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open-source projects and small demo apps
 - 📫 Check out my LinkedIn: gabrielwright1 - there you'll find my daily posts on my journey to #1000DaysOfCode.
 
-Resume: [Gabe_Resume_2021.pdf](https://github.com/gabrielwright1/gabrielwright1/files/6795477/Gabe_Resume_2021.pdf)
+Learn more: [Gabe_Resume_2021.pdf](https://github.com/gabrielwright1/gabrielwright1/files/6795477/Gabe_Resume_2021.pdf)
 
 <!---
 gabrielwright1/gabrielwright1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
