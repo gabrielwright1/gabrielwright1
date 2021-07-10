@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Gabe
+- 👋 Hi, I’m Gabe (he/him)
 - 👀 I’m interested in UX/UI design, fullstack development, and system design. 
 - 🌱 I’m currently learning MongoDB, Express, React, and Node. I also enjoy scripting (Python/VBA) and process automation (Nintex).
 - 💞️ I’m looking to collaborate on open-source projects and small demo apps
