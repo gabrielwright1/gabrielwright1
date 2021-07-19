@@ -2,7 +2,7 @@
 - 👀 I’m interested in UX/UI design, fullstack development, and system design. 
 - 🌱 I’m currently learning MongoDB, Express, React, and Node. I also enjoy scripting (Python/VBA) and process automation (Nintex).
 
-Learn more: 
+Reach out: 
 
 https://www.linkedin.com/in/gabrielwright1/
 
