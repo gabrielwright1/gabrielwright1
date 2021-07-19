@@ -7,6 +7,7 @@ Learn more:
 [Gabe_Resume_2021.pdf](https://github.com/gabrielwright1/gabrielwright1/files/6795477/Gabe_Resume_2021.pdf)
 
 Socials: 
+
 https://www.linkedin.com/in/gabrielwright1/
 
 https://twitter.com/GabeTheDev
