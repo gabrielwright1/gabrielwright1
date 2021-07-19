@@ -5,7 +5,7 @@ About:
 
 Socials: 
 
-https://www.linkedin.com/in/gabrielwright1/
+https://linkedin.com/in/gabrielwright1/
 
 https://twitter.com/GabeTheDev
 
