@@ -5,9 +5,8 @@ About:
 
 Socials: 
 
-https://linkedin.com/in/gabrielwright1/
-
-https://twitter.com/GabeTheDev
+- https://linkedin.com/in/gabrielwright1/
+- https://twitter.com/GabeTheDev
 
 <!---
 gabrielwright1/gabrielwright1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
