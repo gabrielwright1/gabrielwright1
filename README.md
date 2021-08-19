@@ -1,8 +1,7 @@
 About:
-- 👋 Hi, I’m Gabe - [Resume 2021](https://github.com/gabrielwright1/gabrielwright1/files/6871382/WD-Gabriel.Wright-Resume.pdf)
-
+- 👋 Hi, I’m Gabe - [Gabe_Resume_2021 (5).pdf](https://github.com/gabrielwright1/gabrielwright1/files/7018188/Gabe_Resume_2021.5.pdf)
 - 👀 I’m interested in UX/UI, fullstack development, and system design. 
-- 🌱 I’m currently learning MongoDB, Express, React, and Node. I also enjoy scripting (Python/VBA) and process automation (Nintex).
+- 🌱 I’m currently learning JavaScript. I also enjoy scripting with Python/VBA and process automation using Nintex.
 
 Socials: 
 
