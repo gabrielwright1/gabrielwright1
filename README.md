@@ -1,5 +1,5 @@
 About:
-- 👋 Hi, I’m Gabe - [Gabe Resume 2022](https://github.com/gabrielwright1/gabrielwright1/files/8063156/Gabe_CV.9.pdf)
+- 👋 Hi, I’m Gabe - [Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8063162/Gabe_Resume_2022.pdf)
 
 
 - 👀 I’m interested in UX/UI, fullstack development, and system design. 
