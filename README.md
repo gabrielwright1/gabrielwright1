@@ -1,5 +1,5 @@
 About:
-- 👋 Hi, I’m Gabe - Check out my resume:[Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8065503/Gabe_Resume_2022.pdf)
+- 👋 Hi, I’m Gabe - Check out my resume: [Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8065503/Gabe_Resume_2022.pdf)
 - 👀 I’m interested in front-end development, UX, and process improvement.
 
 Socials: 
