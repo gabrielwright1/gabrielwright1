@@ -4,7 +4,7 @@ About:
 - I contribute to my team as an effective communicator and I solve problems by collaborating with colleagues to determine the best path forward.
 
 Resume:
-- [Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8155249/Gabe_Resume_2022.pdf)
+- [Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8155379/Gabe_Resume_2022.pdf)
 
 Socials: 
 
