@@ -6,7 +6,6 @@ Resume:
 -[Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8191635/Gabe_Resume_2022.pdf)
 
 Socials: 
-
 - https://linkedin.com/in/gabrielwright1/
 - https://twitter.com/GabeTheDev
 
