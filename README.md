@@ -4,7 +4,7 @@ About:
 
 Resume:
 
-- [Gabe_Resume_2022.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8191635/Gabe_Resume_2022.pdf)
+- [Gabe_Resume.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8199722/Gabe_Resume.pdf)
 
 Socials: 
 
