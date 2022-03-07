@@ -8,7 +8,7 @@ Resume:
 
 Socials: 
 
-- https://linkedin.com/in/gabrielwright1/
+- https://linkedin.com/in/GabeTheDev/
 - https://twitter.com/GabeTheDev
 - https://medium.com/@GabeTheDev
 
