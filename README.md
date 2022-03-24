@@ -10,8 +10,6 @@ Resume
 -------------------------------
 - [Gabe's Resume](https://github.com/gabrielwright1/gabrielwright1/files/8338122/Gabe_CV.24.pdf)
 
-- [Gabe's Resume](https://github.com/gabrielwright1/gabrielwright1/files/8337490/Gabe_Wright_Resume.pdf)
-
 Socials
 -------------------------------
 - https://linkedin.com/in/GabeTheDev/
