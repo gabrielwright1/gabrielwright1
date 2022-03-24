@@ -1,4 +1,4 @@
-About:
+About
 -------------------------------
 - My name is Gabe, I am a front end developer with a background in process improvement and user experience design. 
 
@@ -6,12 +6,12 @@ About:
 
 - In the future, I will be using React JS to impact users from around the world.
 
-Resume:
-
+Resume
+-------------------------------
 - [Gabe's Resume](https://github.com/gabrielwright1/gabrielwright1/files/8337490/Gabe_Wright_Resume.pdf)
 
-Socials: 
-
+Socials
+-------------------------------
 - https://linkedin.com/in/GabeTheDev/
 - https://twitter.com/GabeTheDev
 - https://medium.com/@GabeTheDev
