@@ -8,7 +8,7 @@ About
 
 Resume
 -------------------------------
-- [Gabe's Resume](https://github.com/gabrielwright1/gabrielwright1/files/8342375/Gabe_Wright_Resume.pdf)
+- [Gabe's Resume](https://github.com/gabrielwright1/gabrielwright1/files/8356535/Gabe_CV.35.pdf)
 
 
 Socials
