@@ -8,9 +8,8 @@ About
 
 Resume
 -------------------------------
-[Gabe's_Resume](https://github.com/gabrielwright1/gabrielwright1/files/8368464/Gabe_CV.36.pdf)
-
-
+- [Gabe's_Resume (Light)](https://github.com/gabrielwright1/gabrielwright1/files/8368464/Gabe_CV.36.pdf)
+- [Gabe's Resume (Dark)](https://github.com/gabrielwright1/gabrielwright1/files/8368477/Gabe-Resume-Figma.pdf)
 
 
 Socials
