@@ -11,6 +11,11 @@ Resume
 - [gabriel-wright-resume-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427585/wd40-gabriel-wright-resume-dark.pdf)
 - [gabriel-wright-resume-light](https://github.com/gabrielwright1/gabrielwright1/files/8427587/wd40-gabriel-wright-resume-light.pdf)
 
+Cover Letters
+-------------------------------
+- [gabriel-wright-coverletter-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427594/wd40-gabriel-wright-coverletter-dark.pdf)
+- [gabriel-wright-coverletter-light](https://github.com/gabrielwright1/gabrielwright1/files/8427595/wd40-gabriel-wright-coverletter-light.pdf)
+
 Socials
 -------------------------------
 - https://linkedin.com/in/GabeTheDev/
