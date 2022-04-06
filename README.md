@@ -8,8 +8,8 @@ About
 
 Resume
 -------------------------------
-- [Gabe_Resume_Darkmode](https://github.com/gabrielwright1/gabrielwright1/files/8372042/Gabe_Resume_Dark.pdf)
-- [Gabe_Resume_Lightmode](https://github.com/gabrielwright1/gabrielwright1/files/8381492/Gabe_Resume_Light.pdf)
+- [gabriel-wright-resume-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427585/wd40-gabriel-wright-resume-dark.pdf)
+- [gabriel-wright-resume-light](https://github.com/gabrielwright1/gabrielwright1/files/8427587/wd40-gabriel-wright-resume-light.pdf)
 
 Socials
 -------------------------------
