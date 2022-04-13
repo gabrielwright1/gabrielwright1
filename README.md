@@ -18,8 +18,8 @@ Cover Letters
 
 Portfolio Theme
 -------------------------------
-- [gabriel-wright-portfolio-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8485044/GAW-portfolio-dark.pdf)
-- [gabriel-wright-portfolio-light.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8485041/GAW-portfolio-light.pdf)
+- [gabriel-wright-portfolio-dark](https://github.com/gabrielwright1/gabrielwright1/files/8485044/GAW-portfolio-dark.pdf)
+- [gabriel-wright-portfolio-light](https://github.com/gabrielwright1/gabrielwright1/files/8485041/GAW-portfolio-light.pdf)
 
 
 Socials
