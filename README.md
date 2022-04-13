@@ -16,6 +16,12 @@ Cover Letters
 - [gabriel-wright-coverletter-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427594/wd40-gabriel-wright-coverletter-dark.pdf)
 - [gabriel-wright-coverletter-light](https://github.com/gabrielwright1/gabrielwright1/files/8427595/wd40-gabriel-wright-coverletter-light.pdf)
 
+Portfolio Theme
+-------------------------------
+- [gabriel-wright-portfolio-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8485044/GAW-portfolio-dark.pdf)
+- [gabriel-wright-portfolio-light.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8485041/GAW-portfolio-light.pdf)
+
+
 Socials
 -------------------------------
 - https://linkedin.com/in/GabeTheDev/
