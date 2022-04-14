@@ -16,9 +16,9 @@ Cover Letters
 - [gabriel-wright-coverletter-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427594/wd40-gabriel-wright-coverletter-dark.pdf)
 - [gabriel-wright-coverletter-light](https://github.com/gabrielwright1/gabrielwright1/files/8427595/wd40-gabriel-wright-coverletter-light.pdf)
 
-Portfolio Theme
+Portfolio Theme (made using Figma)
 -------------------------------
-- ![gabriel-wright-portfolio-dark](https://user-images.githubusercontent.com/52660296/163306018-aeedfe97-cae9-487e-8d7e-1a0f570358e4.png)
+![gabriel-wright-portfolio-dark](https://user-images.githubusercontent.com/52660296/163306018-aeedfe97-cae9-487e-8d7e-1a0f570358e4.png)
 
 Socials
 -------------------------------
