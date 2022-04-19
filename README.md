@@ -18,7 +18,7 @@ Cover Letters
 
 Portfolio Theme (made using Figma)
 -------------------------------
-![GAW-portfolio-dark](https://user-images.githubusercontent.com/52660296/163306870-b3024cf4-7e85-4e3e-9416-3126bf491413.png)
+![GAW-portfolio-dark](https://user-images.githubusercontent.com/52660296/164030582-f5d34cbc-9a9f-43b6-b071-be961745e8f2.png)
 
 
 Socials
