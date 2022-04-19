@@ -16,7 +16,7 @@ Cover Letters
 - [gabriel-wright-coverletter-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427594/wd40-gabriel-wright-coverletter-dark.pdf)
 - [gabriel-wright-coverletter-light](https://github.com/gabrielwright1/gabrielwright1/files/8427595/wd40-gabriel-wright-coverletter-light.pdf)
 
-Portfolio:
+Portfolio (under construction)
 -------------------------------
 - https://www.gabrielwright.ca
 ![GAW-portfolio-dark](https://user-images.githubusercontent.com/52660296/164030582-f5d34cbc-9a9f-43b6-b071-be961745e8f2.png)
