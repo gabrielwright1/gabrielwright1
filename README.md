@@ -8,24 +8,24 @@ About
 
 Resume
 -------------------------------
-- [gabriel-wright-resume-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427585/wd40-gabriel-wright-resume-dark.pdf)
-- [gabriel-wright-resume-light](https://github.com/gabrielwright1/gabrielwright1/files/8427587/wd40-gabriel-wright-resume-light.pdf)
+- ![gabriel-wright-resume-dark](https://user-images.githubusercontent.com/52660296/165119102-906fc157-e28b-474c-afe5-fddced305a06.png)
 
 Cover Letters
 -------------------------------
 - [gabriel-wright-coverletter-dark](https://github.com/gabrielwright1/gabrielwright1/files/8427594/wd40-gabriel-wright-coverletter-dark.pdf)
-- [gabriel-wright-coverletter-light](https://github.com/gabrielwright1/gabrielwright1/files/8427595/wd40-gabriel-wright-coverletter-light.pdf)
-
-Portfolio (under construction)
--------------------------------
-- https://www.gabrielwright.ca
-![GAW-portfolio-dark](https://user-images.githubusercontent.com/52660296/164030582-f5d34cbc-9a9f-43b6-b071-be961745e8f2.png)
 
 Socials
 -------------------------------
 - https://linkedin.com/in/GabeTheDev/
 - https://twitter.com/GabeTheDev
 - https://medium.com/@GabeTheDev
+
+Portfolio
+-------------------------------
+- https://www.gabrielwright.ca
+![GAW-portfolio-desktop](https://user-images.githubusercontent.com/52660296/165118992-8fa1a1cc-1026-49ac-ba9b-bfa919bd7b96.png)
+
+
 
 <!---
 gabrielwright1/gabrielwright1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
