@@ -8,7 +8,7 @@ About
 
 Resume
 -------------------------------
-- [gabriel-wright-resume-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8557096/gabriel-wright-resume-dark.pdf)
+- [gabriel-wright-resume-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8559956/gabriel-wright-resume-dark.pdf)
 
 Cover Letters
 -------------------------------
