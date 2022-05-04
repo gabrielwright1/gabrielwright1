@@ -1,6 +1,6 @@
 About
 -------------------------------
-- A Front-End Web Developer with +5 years of engineering experience in process improvement and user experience design. Improves legacy processes by identifying waste, automating inefficiencies, and testing solutions with subject matter experts. Strives to create an inclusive environment on teams by championing gender parity and promotes diversity and inclusion in tech.
+- A front-end web developer with +5 years of engineering experience in process improvement and user experience design. Strives to create a safe environment on teams by championing gender parity, promoting diversity, and facilitating inclusive discussions. Improves processes by identifying waste, automating inefficiencies, and unit testing proposed solutions with subject matter experts.
 
 Resume
 -------------------------------
