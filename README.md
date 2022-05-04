@@ -5,6 +5,8 @@ About
 Resume
 -------------------------------
 - [gabriel-wright-resume-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8559956/gabriel-wright-resume-dark.pdf)
+- [gabriel-wright-resume-ATS.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8622261/GAW-Resume-ATS.pdf)
+
 
 Cover Letters
 -------------------------------
