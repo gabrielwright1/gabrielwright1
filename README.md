@@ -5,7 +5,7 @@ About
 Resume
 -------------------------------
 - [gabriel-wright-resume-dark](https://github.com/gabrielwright1/gabrielwright1/files/8559956/gabriel-wright-resume-dark.pdf)
-- [gabriel_wright_resume_plain.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8652645/gabriel_wright_resume_plain.pdf)
+- [gabriel_wright_resume_plain](https://github.com/gabrielwright1/gabrielwright1/files/8652645/gabriel_wright_resume_plain.pdf)
 
 
 
