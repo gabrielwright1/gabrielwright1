@@ -12,6 +12,7 @@ Resume
 Cover Letters
 -------------------------------
 - [gabriel-wright-coverletter-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8559980/gabriel-wright-coverletter-dark.pdf)
+- [gabriel-wright-coverletter-resume-styleguide](https://github.com/gabrielwright1/gabrielwright1/files/8716945/gabriel-wright-coverletter-resume-styleguide.15.pdf)
 
 Socials
 -------------------------------
