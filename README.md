@@ -22,7 +22,8 @@ Socials
 Portfolio
 -------------------------------
 - https://www.gabrielwright.ca
-![GAW-portfolio-desktop](https://user-images.githubusercontent.com/52660296/165118992-8fa1a1cc-1026-49ac-ba9b-bfa919bd7b96.png)
+![desktop-1024px](https://user-images.githubusercontent.com/52660296/169583705-10e98c1d-1a66-482c-86d8-381de1d6f2b0.png)
+
 
 
 
