@@ -8,7 +8,6 @@ Resume
 - [gabriel-wright-resume-plain](https://github.com/gabrielwright1/gabrielwright1/files/8652645/gabriel_wright_resume_plain.pdf)
 
 
-
 Cover Letters
 -------------------------------
 - [gabriel-wright-coverletter-dark.pdf](https://github.com/gabrielwright1/gabrielwright1/files/8559980/gabriel-wright-coverletter-dark.pdf)
