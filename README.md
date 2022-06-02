@@ -1,6 +1,6 @@
 About
 -------------------------------
-- A front-end web developer with +5 years of engineering experience in process improvement and user experience design. Improves processes by identifying waste, automating inefficiencies, and unit testing proposed solutions with subject matter experts.
+- A front-end web developer with +5 years of engineering experience in process improvement and user experience design. Improves processes by identifying waste, automating inefficiencies, and testing proposed solutions with subject matter experts.
 
 Socials
 -------------------------------
