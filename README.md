@@ -10,7 +10,7 @@
 
 ## Portfolio
 - https://www.gabrielwright.ca
-![desktop-1024px](https://user-images.githubusercontent.com/52660296/169583705-10e98c1d-1a66-482c-86d8-381de1d6f2b0.png)
+
 
 
 
