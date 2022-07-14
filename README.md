@@ -1,6 +1,5 @@
 # About
 - I'm a front-end web developer with +5 years of engineering experience in process improvement and user experience design.
-- I'm currently learning how to use the MERN stack to build responsive web applications.
 
 ## Socials
 - https://linkedin.com/in/GabeTheDev/
