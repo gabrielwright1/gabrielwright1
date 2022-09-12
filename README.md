@@ -1,10 +1,12 @@
 # About
 - I'm a front-end web developer with +5 years of engineering experience in process improvement and user experience design.
 
-## My tech stack:
-- Past: I built web applications in a legacy environment using InfoPath, Nintex, SharePoint, and VBA/Excel. 
-- Present: I'm building web apps using HTML5, CSS3, SASS, JavaScript, jQuery, React, and Firebase.
-- Recently: I've been using MongoDB, Express, React, Node, Redux (state management) and Mocha/Chai/Cypress (testing).
+## My current tech stack:
+- MongoDB, Express, React, Node, Redux (state management) and Mocha/Chai/Cypress (testing).
+- HTML, CSS, JavaScript, jQuery, and Firebase.
+
+## My past tech stack:
+-I built web applications in a legacy environment using InfoPath, Nintex, SharePoint, and VBA/Excel. 
 
 ## Socials
 - https://linkedin.com/in/GabeTheDev/
