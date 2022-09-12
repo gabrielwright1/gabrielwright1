@@ -1,7 +1,7 @@
 # About
 - I'm a front-end web developer with +5 years of engineering experience in process improvement and user experience design.
 
-## My current tech stack:
+## My tech stack:
 - HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress.
 - In the past, I built web applications in a legacy environment using InfoPath, Nintex, SharePoint, and VBA/Excel. 
 
