@@ -2,10 +2,7 @@
 - I'm a front-end web developer with +5 years of engineering experience in process improvement and user experience design.
 
 ## My tech stack:
-- HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase
-- 
-## I'm still learning:
-- Mocha, Chai, and Cypress.
+- HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, and Cypress.
 
 ## Socials
 - https://linkedin.com/in/GabeTheDev/
