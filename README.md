@@ -1,7 +1,7 @@
 # About
 - I'm a full stack web developer with +5 years of engineering experience in process automation and user experience design.
 
-## My tech stack:
+## Tech stack:
 - HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, and Cypress.
 
 ## Socials
