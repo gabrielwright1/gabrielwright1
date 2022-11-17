@@ -2,8 +2,10 @@
 - I'm a full stack web developer with +5 years of engineering experience in process automation and user experience design.
 
 ## Tech stack:
-- HTML, CSS, Sass, JavaScript, TypeScript, jQuery, React, Redux, Next.js, Keystone.js
-- GraphQL, Apollo, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress
+- HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress
+
+## Currently Learning:
+- TypeScript, Next.js, Keystone.js, GraphQL, Apollo, Styled Components
 
 ## Socials
 - https://linkedin.com/in/GabeTheDev/
