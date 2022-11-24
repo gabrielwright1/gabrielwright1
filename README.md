@@ -4,7 +4,7 @@
 ## Tech stack:
 - HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress
 
-## Currently Learning:
+## Currently learning:
 - TypeScript, Next.js, Keystone.js, GraphQL, Apollo, Styled Components
 
 ## Socials
