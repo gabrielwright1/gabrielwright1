@@ -5,7 +5,7 @@
 - HTML, CSS, Sass, JavaScript, jQuery, React, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress
 
 ## Currently learning:
-- TypeScript, Next.js, Keystone.js, GraphQL, Apollo, Styled Components, React Testing Library
+- Ruby on Rails, TypeScript, React Native, Next.js, Keystone.js, GraphQL, Apollo, Styled Components, React Testing Library, Rspec
 
 ## Socials
 - https://linkedin.com/in/GabeTheDev/
