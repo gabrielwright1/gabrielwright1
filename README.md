@@ -2,7 +2,7 @@
 - I'm a full stack web developer with +5 years of engineering experience in process automation and user experience design.
 
 ## Tech stack:
-- HTML, CSS, Sass, JavaScript, TypeScript, jQuery, React, React Native, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Ruby on Rails, GraphQL
+- HTML, CSS, Sass, JavaScript, TypeScript, jQuery, React, React Native, Redux, Express, Node, MongoDB, Firebase, Mocha, Chai, Cypress, Ruby on Rails, GraphQL
 
 ## Currently learning:
 - Ruby on Rails, TypeScript, React Native, PostgreSQL, Next.js, Keystone.js, GraphQL, Apollo, Styled Components, React Testing Library, Rspec
